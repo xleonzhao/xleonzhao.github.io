@@ -2,5 +2,3 @@
 
 ## Projects
 
-* 6vm
-* ubook
