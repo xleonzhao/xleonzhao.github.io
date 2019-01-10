@@ -8,7 +8,7 @@
 <a href="http://www.simplengreen.net">Simple and Green Networks, LLC</a><br>
 Herndon, VA
 <td>Research and develop innovative technical solutions for In-Memory Computing (IMC), for improving the processing speed of Big Data.<br>
-- <a href="https://www.github.com/xleonzhao/ipmem">ipmem</a>: a kernel module to add external memory from remote servers to a QEMU/KVM virtual machines.
+- <a href="https://www.github.com/xleonzhao/ipmem">ipmem</a>: a kernel module to add external memory from remote servers to a QEMU/KVM virtual machine.
 
 <tr>
 <td align=center> <br><img src="logo_twc.png"><br><br>
