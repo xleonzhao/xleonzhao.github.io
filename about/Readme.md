@@ -4,7 +4,7 @@
 <tr>
 <td align=center> <br><img src="sgn.png"><br><br>
 <td> 2017.9 - present
-<td> Founder<br>
+<td>
 <a href="http://www.simplengreen.net">Simple and Green Networks, LLC</a><br>
 Herndon, VA
 <td>Research and develop innovative technical solutions for In-Memory Computing (IMC), for improving the processing speed of Big Data.<br>
