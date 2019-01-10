@@ -7,8 +7,8 @@ I obtained my Ph.D. degree from Computer Science Department, North Carolina Stat
 I am happily living with my family in Virginia, United States.
 
 * [Projects](projects.md)
-* [Publications](paper/README.md)
-* [About me](about/README.md)
+* [Publications](paper/)
+* [About me](about/)
 
 ---
 Last modified: 1/9/2019, 11:08:30 AM
