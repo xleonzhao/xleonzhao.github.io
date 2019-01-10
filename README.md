@@ -6,5 +6,11 @@ I obtained my Ph.D. degree from Computer Science Department, North Carolina Stat
 
 I am happily living with my family in Virginia, United States.
 
+<table width=100% border=0>
+<tr>
+<td><a href="project.html">Projects</a>
+<td><a href="paper/README.md">Publications</a>
+<td><a href="about/README.md">About me</a>
+</table>
 ---
 Last modified: 1/9/2019, 11:08:30 AM

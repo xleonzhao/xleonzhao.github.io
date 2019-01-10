@@ -2,8 +2,17 @@
 
 <table width=90% border=1>
 <tr>
+<td align=center> <br><img src="sgn.png"><br><br>
+<td> 2017.9 - present
+<td> Founder<br>
+<a href="http://www.simplengreen.net">Simple and Green Networks, LLC</a><br>
+Herndon, VA
+<td>Research and develop innovative technical solutions for In-Memory Computing (IMC), for improving the processing speed of Big Data.<br>
+- <a href="https://www.github.com/xleonzhao/ipmem">ipmem</a>: a kernel module to add external memory from remote servers to a QEMU/KVM virtual machines.
+
+<tr>
 <td align=center> <br><img src="logo_twc.png"><br><br>
-<td> 2011.7 - present
+<td> 2011.7 - 2017.9
 <td> Capacity Planning, Backbone<br>
 <a href="http://www.timewarnercable.com">Time Warner Cable</a><br>
 Herndon, VA
