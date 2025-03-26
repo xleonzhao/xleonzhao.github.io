@@ -1,9 +1,3 @@
-## Unpublished Manuscripts
-
-* Xiaoliang Zhao, Jilong Wang, Xing Li, Dan Massey, David Kao, ["A Design of User-Centric Intranet"](zhao-uci.pdf), Jan. 2012.
-* Xiaoliang Zhao and David Kao, ["BGP Security via Enhancements of Existing Practices"](zhao-icc10.pdf), 2010.
-* Xiaoliang Zhao, Zhiyan Zheng, Jilong Wang, Xing Li, ["Design, Build and Operate IETF79 Meeting Network - An Internal Report"](zhao-ietf79.pdf), Dec. 2010.
-
 ## Publications
 
 * Xiaoliang Zhao, David Kao, ["Multi-Layer Capacity Planning, Cost Modeling and Optimization"](zhao-scte13.pdf), SCTE Cable-Tec Expo'13, Oct. 2013.
@@ -31,7 +25,12 @@
 * Dan Pei, Xiaoliang Zhao, Lan Wang, Dan Massey, Allison Mankin, S. Felix Wu and Lixia Zhang, ["Improving BGP Convergence Through Consistency Assertions"](pei-infocom02.pdf), IEEE INFOCOM 2002. (acceptance rate:20.5%)
 * Xiaoliang Zhao, Dan Pei, Lan Wang, Dan Massey, Allison Mankin, S. Felix Wu and Lixia Zhang, ["An Analysis of BGP Multiple Origin AS (MOAS) Conflicts"](zhao-imw01.pdf), ACM SIGCOMM Internet Measurement Workshop (IMW'02) 2001. (acceptance rate:45%)
 
+## Unpublished Manuscripts
+
+* Xiaoliang Zhao, Jilong Wang, Xing Li, Dan Massey, David Kao, ["A Design of User-Centric Intranet"](zhao-uci.pdf), Jan. 2012.
+* Xiaoliang Zhao and David Kao, ["BGP Security via Enhancements of Existing Practices"](zhao-icc10.pdf), 2010.
+* Xiaoliang Zhao, Zhiyan Zheng, Jilong Wang, Xing Li, ["Design, Build and Operate IETF79 Meeting Network - An Internal Report"](zhao-ietf79.pdf), Dec. 2010.
+
 ---
 _Copyright Note: This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder._
 
-Last modified: 1/14/2019
