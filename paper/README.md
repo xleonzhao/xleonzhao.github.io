@@ -25,6 +25,11 @@
 * Dan Pei, Xiaoliang Zhao, Lan Wang, Dan Massey, Allison Mankin, S. Felix Wu and Lixia Zhang, ["Improving BGP Convergence Through Consistency Assertions"](pei-infocom02.pdf), IEEE INFOCOM 2002. (acceptance rate:20.5%)
 * Xiaoliang Zhao, Dan Pei, Lan Wang, Dan Massey, Allison Mankin, S. Felix Wu and Lixia Zhang, ["An Analysis of BGP Multiple Origin AS (MOAS) Conflicts"](zhao-imw01.pdf), ACM SIGCOMM Internet Measurement Workshop (IMW'02) 2001. (acceptance rate:45%)
 
+## Patents
+
+* US 11,360,681 B2, ["Systems and Methods for Scalable Shared Memory Among Networked Devices Comprising IP Addressable Memory Blocks"](paper/US11360681.pdf), Jun. 2022.
+* US 11,675,510 B2, ["Systems and Methods for Scalable Shared Memory Among Networked Devices Comprising IP Addressable Memory Blocks" - continuation](paper/US11675510.pdf), Jun. 2023.
+
 ## Unpublished Manuscripts
 
 * Xiaoliang Zhao, Jilong Wang, Xing Li, Dan Massey, David Kao, ["A Design of User-Centric Intranet"](zhao-uci.pdf), Jan. 2012.
